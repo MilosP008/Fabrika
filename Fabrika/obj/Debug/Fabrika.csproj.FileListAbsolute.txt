@@ -1,0 +1,10 @@
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\bin\Debug\Fabrika.exe.config
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\bin\Debug\Fabrika.exe
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\bin\Debug\Fabrika.pdb
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\obj\Debug\Fabrika.csprojAssemblyReference.cache
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\obj\Debug\Fabrika.Form1.resources
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\obj\Debug\Fabrika.Properties.Resources.resources
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\obj\Debug\Fabrika.csproj.GenerateResource.cache
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\obj\Debug\Fabrika.csproj.CoreCompileInputs.cache
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\obj\Debug\Fabrika.exe
+C:\Users\MilosP008\Desktop\Praksa\Fabrika\Fabrika\obj\Debug\Fabrika.pdb
